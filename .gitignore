@@ -1,0 +1,4 @@
+# File extensions
+.DS_store # macOs hidden folder information file (Desktop Services Store)
+
+# Folders
